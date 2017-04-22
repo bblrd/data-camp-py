@@ -1,4 +1,4 @@
-# Data-Camp-Code-Sample
+# Data-Camp-Code-Samples
 Code samples from Data Camp tutorials
 
 Files included:
