@@ -1,2 +1,5 @@
 # Data-Camp-Code-Sample
-Code sample from a decision tree tutorial from Data Camp
+Code samples from Data Camp tutorials
+
+Files included:
+decision tree sample
