@@ -1,6 +1,12 @@
-# Data-Camp-Code-Samples
-Code samples from Data Camp tutorials
+# DataCamp code samples
+Code samples from DataCamp tutorials
 
 Files included:
 
-decision tree sample
+(1.) dc_decision_trees.py
+
+DataCamp Intro to decision trees
+
+(2.) dc_k-nn.py
+
+DataCamp k-Nearest Neighbors
