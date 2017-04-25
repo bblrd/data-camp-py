@@ -1,5 +1,5 @@
-# Data Camp code samples
-Code samples from Data Camp tutorials
+## Data Camp code samples
+# Code samples from Data Camp tutorials
 
 Files included:
 
