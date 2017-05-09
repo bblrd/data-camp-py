@@ -10,3 +10,8 @@ Data Camp Intro to decision trees
 (2.) dc_k-nn.py
 
 Data Camp k-Nearest Neighbors
+
+
+(3.) dc_intro-py-for-ds.py
+
+Data Camp Introduction to Python for Data Science
