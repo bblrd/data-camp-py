@@ -3,8 +3,8 @@
 
 Files included:
 
-(1.) dc_decision_trees.py ........ Data Camp Intro to decision trees
+(1.) Intro to decision trees ........ dc_decision_trees.py
 
-(2.) dc_k-nn.py ....................... Data Camp k-Nearest Neighbors
+(2.) k-Nearest Neighbors ....................... dc_k-nn.py
 
-(3.) dc_intro-py-for-ds.py ....... Data Camp Introduction to Python for Data Science
+(3.) Introduction to Python for Data Science ....... dc_intro-py-for-ds.py
