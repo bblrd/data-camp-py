@@ -13,6 +13,6 @@ Files included:
 
 (5.) Deep Learning in Python ............................................... dc05_deep-learning.py
 
-(6.) Importing Data in Python (Part 1) .............................. dc06_import-data-py1.py
+(6.) Importing Data in Python (Part 1) .................................. dc06_import-data-py1.py
 
-(7.) Importing Data in Python (Part 2) .............................. dc07_import-data-py2.py
+(7.) Importing Data in Python (Part 2) .................................. dc07_import-data-py2.py
