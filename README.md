@@ -16,3 +16,5 @@ Files included:
 (6.) Importing Data in Python (Part 1) .................................. dc06_import-data-py1.py
 
 (7.) Importing Data in Python (Part 2) .................................. dc07_import-data-py2.py
+
+(8.) Cleaning Data in Python ............................................... dc08_clean-data-py.py
