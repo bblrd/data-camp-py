@@ -19,4 +19,4 @@ Files included:
 
 (8.) Cleaning Data in Python ............................................... dc08_clean-data-py.py
 
-(9.) pandas Foundations ................................................... dc09_pd-fundations.py
+(9.) pandas Foundations ..................................................... dc09_pd-fundations.py
