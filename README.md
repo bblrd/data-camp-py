@@ -18,3 +18,5 @@ Files included:
 (7.) Importing Data in Python (Part 2) .................................. dc07_import-data-py2.py
 
 (8.) Cleaning Data in Python ............................................... dc08_clean-data-py.py
+
+(9.) pandas Foundations ............................................... dc09_pd-fundations.py
