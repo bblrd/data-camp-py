@@ -3,7 +3,7 @@
 
 Files included:
 
-(1.) Intro to Python for Data Science .................................... dc01_intro-py-for-ds.py
+(1.) Intro to Python for Data Science .................................... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
 
 (2.) Intermediate Python for Data Science ........................... dc02_intermed-py-ds.py
 
