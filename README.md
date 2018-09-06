@@ -1,4 +1,4 @@
-# Python code from Data Camp tutorials
+# Data Camp tutorials in Python
 
 (1.) Intro to Python for Data Science .................................... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
 
