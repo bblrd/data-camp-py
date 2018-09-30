@@ -2,9 +2,9 @@
 
 (1.) Intro to Python for Data Science .................................... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
 
-(2.) Intermediate Python for Data Science ........................... dc02_intermed-py-ds.py
+(2.) Intermediate Python for Data Science ........................... [dc02_intermed-py-ds.py](dc02_intermed-py-ds.py)
 
-(3.) Python Data Science Toolbox (Part 1) ........................... dc03_py-ds-toolbox1.py
+(3.) Python Data Science Toolbox (Part 1) ........................... [dc03_py-ds-toolbox1.py](dc03_py-ds-toolbox1.py)
 
 (4.) Python Data Science Toolbox (Part 2) ........................... dc04_py-ds-toolbox2.py
 
