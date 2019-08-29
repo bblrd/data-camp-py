@@ -8,10 +8,10 @@
 
 (4.) Python Data Science Toolbox (Part 2) ... [dc04_py-ds-toolbox2.py](dc04_py-ds-toolbox2.py)
 
-(5.) Importing Data in Python (Part 1) ... dc05_import-data-py1.py
+(5.) Importing Data in Python (Part 1) ... [dc05_import-data-py1.py](dc05_import-data-py1.py)
 
-(6.) Importing Data in Python (Part 2) ... dc06_import-data-py2.py
+(6.) Importing Data in Python (Part 2) ... [dc06_import-data-py2.py](dc06_import-data-py2.py)
 
-(7.) Cleaning Data in Python .... dc07_clean-data-py.py
+(7.) Cleaning Data in Python .... [dc07_clean-data-py.py](dc07_clean-data-py.py)
 
-(8.) pandas Foundations ... dc08_pd-fundations.py
+(8.) pandas Foundations ... [dc08_pd-fundations.py](dc08_pd-fundations.py)
