@@ -1,4 +1,4 @@
-# Data Camp tutorials in Python
+# DataCamp tutorials in Python
 
 (1.) Intro to Python for Data Science ... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
 
@@ -12,6 +12,6 @@
 
 (6.) Importing Data in Python (Part 2) ... [dc06_import-data-py2.py](dc06_import-data-py2.py)
 
-(7.) Cleaning Data in Python .... [dc07_clean-data-py.py](dc07_clean-data-py.py)
+(7.) Cleaning Data in Python ... [dc07_clean-data-py.py](dc07_clean-data-py.py)
 
 (8.) pandas Foundations ... [dc08_pd-fundations.py](dc08_pd-fundations.py)
