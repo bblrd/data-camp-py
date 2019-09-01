@@ -16,4 +16,4 @@
 
 (8.) pandas Foundations ... [dc08_pd-fundations.py](dc08_pd-fundations.py)
 
-(9.) dc09_manipulate-df-pd.py ... [dc09_manipulate-df-pd.py](dc09_manipulate-df-pd.py)
+(9.) Manipulating DataFrames with pandas ... [dc09_manipulate-df-pd.py](dc09_manipulate-df-pd.py)
