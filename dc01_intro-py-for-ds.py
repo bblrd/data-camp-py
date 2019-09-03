@@ -1,4 +1,4 @@
-# Intro to Python for Data Science on DataCamp
+# Introduction to Python on DataCamp
 
 #######################################
 
