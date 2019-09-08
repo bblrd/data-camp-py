@@ -1,6 +1,6 @@
 # DataCamp tutorials in Python
 
-(1.) Intro to Python for Data Science ... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
+(1.) Introduction to Python ... [dc01_intro-py-for-ds.py](dc01_intro-py-for-ds.py)
 
 (2.) Intermediate Python for Data Science ... [dc02_intermed-py-ds.py](dc02_intermed-py-ds.py)
 
@@ -17,3 +17,5 @@
 (8.) pandas Foundations ... [dc08_pd-fundations.py](dc08_pd-fundations.py)
 
 (9.) Manipulating DataFrames with pandas ... [dc09_manipulate-df-pd.py](dc09_manipulate-df-pd.py)
+
+(10.) Merging DataFrames with pandas ... [dc10_merge-df-with-pd.py](dc10_merge-df-with-pd.py)
