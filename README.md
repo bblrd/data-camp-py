@@ -23,3 +23,7 @@
 (11.) Analyzing Police Activity with pandas ... [dc11_analyze-police-pd.py](dc11_analyze-police-pd.py)
 
 (12.) Intro to SQL for Data Science ... [dc12_intro-sql-ds.py](dc12_intro-sql-ds.py)
+
+(13.) Intro to Relational Databases in SQL ... [dc13_intro-relational-sql.py](dc13_intro-relational-sql.py)
+
+(14.) Intro to Data Visualization with Python ... [dc14_intro-data-vis-py.py](dc14_intro-data-vis-py.py)
