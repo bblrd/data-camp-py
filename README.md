@@ -27,3 +27,27 @@
 (13.) Intro to Relational Databases in SQL ... [dc13_intro-relational-sql.py](dc13_intro-relational-sql.py)
 
 (14.) Intro to Data Visualization with Python ... [dc14_intro-data-vis-py.py](dc14_intro-data-vis-py.py)
+
+(15.) Interactive Data Visualization with Bokeh on DataCamp ... [dc15_data-vis-bokeh.py](dc15_data-vis-bokeh.py)
+
+(16.) Statistical Thinking in Python (Part 1) ... [dc16_stat-thinking-py1.py](dc16_stat-thinking-py1.py)
+
+(17.) Statistical Thinking in Python (Part 2) ... [dc17_stat-thinking-py2.py](dc17_stat-thinking-py2.py)
+
+(18.) Joining Data in SQL ... [dc18_joining-data-sql.py](dc18_joining-data-sql.py)
+
+(19.) Intro to Shell for Data Science ... [dc19_intro-shell-ds.py](dc19_intro-shell-ds.py)
+
+(20.) Conda Essentials ... [dc20_conda-essentials.py](dc20_conda-essentials.py)
+
+(21.) Supervised Learning with scikit-learn ... [dc21_sl-with-scikit-learn.py](dc21_sl-with-scikit-learn.py)
+
+(22.) Machine Learning with the Experts: School Budgets ... [dc22_ml-with-experts.py](dc22_ml-with-experts.py)
+
+(23.) Unsupervised Learning in Python ... [dc23_unsupervise-learn.py](dc23_unsupervise-learn.py)
+
+(24.) Machine Learning with Tree-Based Models in Python ... [dc24_ml-tree-models.py](dc24_ml-tree-models.py)
+
+(25.) Deep Learning in Python ... [dc25_deep-learning.py](dc25_deep-learning.py)
+
+(26.) Machine Learning with Tree-Based Models in Python ... [dc26_network-analysis1.py](dc26_network-analysis1.py)
